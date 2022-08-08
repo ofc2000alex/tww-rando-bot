@@ -36,7 +36,7 @@ DEFAULT_PLANNING_TIME = 60
 MINIMUM_PLANNING_TIME = 20
 
 RSL_PERMALINKS = OrderedDict([
-    ("rsl",     "eJwz1LPUMzSIT0ktYwhKzEvJz2X4/7++qVTkrARPQQOzFAMIMDKQAgDC3Qqu"),
+    ("randomsettings",     "eJwz1LPUMzSIT0ktYwhKzEvJz2X4/7++qVTkrARPQQOzFAMIMDKQAgDC3Qqu"),
 ])
 
 RSL_DEFAULT = ["default"]
