@@ -35,6 +35,15 @@ SPOILER_LOG_DEFAULT = ["preset-a", "preset-b", "preset-c", "preset-d", "preset-e
 DEFAULT_PLANNING_TIME = 60
 MINIMUM_PLANNING_TIME = 20
 
+RSL_PERMALINKS = OrderedDict([
+    ("rsl",     "eJwz1LPUMzSIT0ktYwhKzEvJz2X4/7++qVTkrARPQQOzFAMIMDKQAgDC3Qqu"),
+])
+
+RSL_DEFAULT = ["default"]
+RSL_PATH = "wwrando-dev-tanjo3"
+RSL_VERSION = "1.9.10_dev"
+RSL_DOWNLOAD = "https://github.com/tanjo3/wwrando/releases"
+
 DEV_PERMALINKS = OrderedDict([
     ("default", "eJwz1LPUMzSIT0ktY3BkYGdkZigwYXjAWMDAKMUABg0MJAAAZlcFog=="),
 ])
@@ -52,5 +61,6 @@ S5_DEFAULT = ["default"]
 S5_PATH = "wwrando-s5-tournament"
 S5_VERSION = "S5.0"
 S5_DOWNLOAD = "https://github.com/wooferzfg/wwrando/releases/tag/s5.0"
+
 
 BANNABLE_PRESETS = SPOILER_LOG_DEFAULT
